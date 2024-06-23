@@ -1,1 +1,3 @@
-alpine
+diygod/rsshub:chromium-bundled
+browserless/chrome
+redis:alpine
