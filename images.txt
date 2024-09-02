@@ -1,1 +1,2 @@
 kasmweb/firefox:1.8.0-edge
+kasmweb/firefox:1.15.0
