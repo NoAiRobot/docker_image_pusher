@@ -1,1 +1,1 @@
-kasmweb/telegram:1.14.0
+kasmweb/firefox:1.8.0-edge
