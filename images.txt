@@ -1,1 +1,2 @@
-calciumion/new-api
+kasmweb/desktop:1.16.0
+kasmweb/desktop:1.14.0
