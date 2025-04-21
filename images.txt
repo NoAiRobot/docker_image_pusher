@@ -1,1 +1,1 @@
-kairlec/dst-admin-go
+kairlec/dst-admin-go:latest
