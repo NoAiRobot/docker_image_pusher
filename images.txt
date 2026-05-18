@@ -1,1 +1,2 @@
 freshrss/freshrss
+linuxserver/freshrss:latest
