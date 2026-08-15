@@ -1,1 +1,1 @@
-ghcr.io/nczz/browseforge:v2.1.12
+ghcr.io/7sageer/sublink-worker:latest
