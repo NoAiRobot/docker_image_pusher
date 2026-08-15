@@ -1,2 +1,1 @@
-freshrss/freshrss
-linuxserver/freshrss:latest
+ghcr.io/nczz/browseforge:v2.1.12
