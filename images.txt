@@ -1,1 +1,1 @@
-ghcr.io/7sageer/sublink-worker:latest
+smanx/deepseek-harness:admin-latest
