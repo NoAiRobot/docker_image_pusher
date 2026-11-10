@@ -1,1 +1,1 @@
-ghcr.io/sillytavern/sillytavern:latest
+docker pull smanx/deepseek-harness:admin-latest
