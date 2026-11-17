@@ -1,1 +1,2 @@
 smanx/deepseek-harness:admin-latest
+neosmemo/memos:stable
