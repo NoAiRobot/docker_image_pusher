@@ -1,1 +1,1 @@
-docker pull smanx/deepseek-harness:admin-latest
+smanx/deepseek-harness:admin-latest
